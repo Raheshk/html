@@ -1,0 +1,67 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.main-header{
+  display: flex;
+}
+.main-header1 {
+  background-color: bisque;
+  width: 600px;
+  height: 650px
+}
+img {
+  width: 400px;
+  height: 400px;
+  margin: 100px 0 0 100px;
+}
+.ohoh_img {
+  width: 100px;
+  height: 70px;
+  margin: 25px 0 0 290px;
+}
+.ohoh_main_heading {
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 31.47px;
+  margin: 15px 0 0 140px;
+}
+.ohoh_main_-login-head {
+  margin: 35px 0 0 120px;
+}
+.ohoh_main_login-p {
+  margin: 20px 0 5px 5px;
+}
+.ohoh_input {
+  margin: 0 0 0 120px;
+}
+.ohoh_input1 {
+  border: 1px solid rgb(61, 59, 59);
+  width: 410px;
+  height: 50px;
+  border-radius: 2px;
+}
+
+.ohoh_main_login-p1{
+    margin: 20px 0 10px 0px;}
+    .ohoh_input_check_box{
+        width: 90px;
+        height: 15px;
+        margin: 13px 0 0 84px;
+    }
+    .ohoh_forget{
+        margin: 0 0 0 240px;
+        color: rgb(80, 135, 246);
+    }
+    .ohoh_button1{
+        width: 410px;
+        height: 50px;
+        background-color:#FF5D25 ;
+        border: 0px;
+        margin: 50px 0 10px 120px ;
+        border-radius: 3px;
+    }
+    .ohoh_paragraph{
+        margin: 70px 0 0 200px;
+       
+    }
